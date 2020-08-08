@@ -1,0 +1,23 @@
+show: (x*x-12)*(x^2+x+12)^(2+2)*(x*x-12)^2-(x^2*x*x^2-x+2)^3+(x*x-12)-(x^6+12)^2
+show: (x)^(x+1)+(x)^(x-1)
+show: (x)^(x)+(x)^(-x)
+show: (x)^(2+2)+x^(8-4-1)
+show: (x)^(x-2*x)-x^(x+2*x+1)
+show: x^(2+x-x^2)+x^(-x^2+2+x)
+show: x^x+x^-x+2
+show: 2+2
+$A=$S=21
+show: $A
+show: $S
+show: x^(x^(2+x)-12)+x^(-12+x^(x+2))
+$A= y+12
+$S=$A=x+12
+show: $S
+show: $A=x+x-2*x
+show: $A^(2-1)
+show: (x^(x+2)-x^(-x-2))^2
+show: (x^(x+2)+x^(-x-2))^(1+1)
+show: (-x^(x+2)+x^(-x-2))^(1+1)
+show: $S=(2+x)*(x^2+2)^2
+show: $S-x^5-2*x^4
+sohw: $S
