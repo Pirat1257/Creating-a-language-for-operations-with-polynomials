@@ -15,7 +15,8 @@ Formal grammars and compiler theory
     - синтаксические. Определяются на этапе синтаксического анализа (yacc);
     - семантические. Определяются на этапе исполнения.
 
-win_bison и win_flex: https://sourceforge.net/projects/winflexbison/;
+win_bison и win_flex:
+  - https://sourceforge.net/projects/winflexbison/.
 
 Команды для сборки и запуска проекта:
   - Linux:
