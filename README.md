@@ -20,12 +20,12 @@ Formal grammars and compiler theory
     - yacc -d -y lab_2.y;
     - lex lab_2.y;
     - gcc y.tab.c lex.yy.c;
-    - ./a.out;
+    - ./a.out.
   - Windows:
     - win_bison -d -y lab_2.y;
     - win_flex lab_2.l;
     - gcc y.tab.c lex.yy.c;
-    - a.exe;
+    - a.exe.
 
 Описание реализованной грамматики языка:
   - Терминалы:
